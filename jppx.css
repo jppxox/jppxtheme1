@@ -18,7 +18,7 @@
     --background-secondary-alt: rgba(255, 255, 255, 0.05);
     --background-tertiary: var(--background-secondary-alt);
     /* Бейджики  уведомлений */
-    --status-danger: rgba(202, 90, 99, 0.9);
+    --status-danger: rgba(102, 178, 255);
     /* ссылки*/
     --text-link: rgb(125, 170, 233);
     /* много где */
